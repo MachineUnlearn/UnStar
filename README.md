@@ -1,7 +1,7 @@
 
 # UN-STAR: UNlearning with Self-Taught Anti-sample Reasoning
 
-The key components of machine learning are data samples for training, a model for learning patterns, and a loss function for optimizing accuracy. Analogously, unlearning can potentially be achieved through **anti-data-samples** (or **anti-samples**), an **unlearning method**, and a **reversed loss function**. While prior research has explored unlearning methods and reversed loss functions, the potential of anti-samples remains largely untapped. Although token-based anti-samples have been previously introduced ([Eldan et al., 2023](https://arxiv.org/abs/2306.01751)), the use of **reasoning-driven anti-samples**—constructed with **falsified answers** and **misleading rationales**—remains unexplored.
+The key components of machine learning are data samples for training, a model for learning patterns, and a loss function for optimizing accuracy. Analogously, unlearning can potentially be achieved through **anti-data-samples** (or **anti-samples**), an **unlearning method**, and a **reversed loss function**. While prior research has explored unlearning methods and reversed loss functions, the potential of anti-samples remains largely untapped. Although token-based anti-samples have been previously introduced ([Eldan et al., 2023](https://arxiv.org/abs/2310.02238)), the use of **reasoning-driven anti-samples**—constructed with **falsified answers** and **misleading rationales**—remains unexplored.
 
 In this paper, we introduce **UN-STAR**: _**Un**learning with **S**elf-**T**aught **A**nti-Sample **R**easoning_ for large language models (LLMs). Our contributions are threefold:
 
