@@ -1,0 +1,10 @@
+adapters*/
+.DS_Store
+__pycache__/*
+eval_results/*
+
+output_results_mistral-q-f.csv
+
+llama-q/*
+mistral-q/*
+mistral-q-f/*
